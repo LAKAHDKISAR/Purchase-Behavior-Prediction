@@ -1,4 +1,6 @@
-# Purchase-Behavior-Prediction
+# PRODIGY_DS_03
+
+## Purchase-Behavior-Prediction
 
 ## Overview
 This repository contains data and analysis related to predicting whether a customer will purchase a product or service based on their demographic and behavioral data. It includes datasets, scripts for data preprocessing, model training, evaluation, and visualizations.
